@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "DALP2627-test",
+  "short_name": "dalp2627-test",
+  "term": "Test DALP 2627",
+  "org": "DALP-CiudadJardin",
+  "team": {
+    "id": 18303002,
+    "slug": "classroom50-dalp2627-test"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18303003,
+      "slug": "classroom50-dalp2627-test-instructor"
+    },
+    "ta": {
+      "id": 18303004,
+      "slug": "classroom50-dalp2627-test-ta"
+    }
+  }
+}
