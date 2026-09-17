@@ -14,7 +14,16 @@
         "repo": "ejercicio_ejemplo",
         "branch": "main"
       },
-      "description": "Primer ejemplo de ejercicio"
+      "description": "Primer ejemplo de ejercicio",
+      "tests": [
+        {
+          "name": "Prueba 1",
+          "type": "python",
+          "run": "python -m pytest -q",
+          "points": 1,
+          "setup": "sudo -H pip3 install -r requirements.txt"
+        }
+      ]
     }
   ]
 }
