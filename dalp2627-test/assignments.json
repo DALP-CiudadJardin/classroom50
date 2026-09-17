@@ -42,21 +42,21 @@
         {
           "name": "Test 1",
           "type": "python",
-          "run": "pytest test_tarea.py::test_hola",
+          "run": "pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py::test_hola",
           "points": 1,
           "setup": "sudo -H pip3 install -r requirements.txt"
         },
         {
           "name": "Test 2",
           "type": "python",
-          "run": "pytest test_tarea.py::test_suma_dos",
+          "run": "pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py::test_suma_dos",
           "points": 1,
           "setup": "sudo -H pip3 install -r requirements.txt"
         },
         {
           "name": "Test 3",
           "type": "python",
-          "run": "pytest test_tarea.py::test_zero_array",
+          "run": "pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py::test_zero_array",
           "points": 1,
           "setup": "sudo -H pip3 install -r requirements.txt"
         }
