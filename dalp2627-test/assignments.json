@@ -44,7 +44,8 @@
           "type": "python",
           "run": "python -m pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py",
           "points": 1,
-          "setup": "pip install -r requirements.txt"
+          "setup": "pip install -r requirements.txt",
+          "timeout": 30
         },
         {
           "name": "Test 2",
