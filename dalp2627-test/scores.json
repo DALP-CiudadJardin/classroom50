@@ -6,6 +6,246 @@
       "entries": [],
       "collected_at": "2026-09-11T10:47:10Z",
       "detected": []
+    },
+    "prueba-2": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "inigopagaza",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T11-32-46Z-df885d9",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/df885d9d7a046b44f8723ef70c84b56e6f2e5614",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T11-32-46Z-df885d9",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...df885d9d7a046b44f8723ef70c84b56e6f2e5614",
+              "datetime": "2026-09-17T11:31:51Z",
+              "graded_at": "2026-09-17T11:33:27Z",
+              "score": 1,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T11-27-28Z-f5e386f",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/f5e386f7b53dfb10f0da47f93fb1437ffc601821",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T11-27-28Z-f5e386f",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...f5e386f7b53dfb10f0da47f93fb1437ffc601821",
+              "datetime": "2026-09-17T11:27:04Z",
+              "graded_at": "2026-09-17T11:28:04Z",
+              "score": 0,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T10-51-36Z-eb64adb",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/eb64adb2c9c98f8a81c7b0b5be76b0ad011386a2",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T10-51-36Z-eb64adb",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...eb64adb2c9c98f8a81c7b0b5be76b0ad011386a2",
+              "datetime": "2026-09-17T10:51:16Z",
+              "graded_at": "2026-09-17T10:52:12Z",
+              "score": 0,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T10-41-52Z-1a1fa14",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/1a1fa14621593aed80b6933c8c457584edf5e934",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T10-41-52Z-1a1fa14",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...1a1fa14621593aed80b6933c8c457584edf5e934",
+              "datetime": "2026-09-17T10:41:32Z",
+              "graded_at": "2026-09-17T10:42:27Z",
+              "score": 0,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T10-29-25Z-d929d6e",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/d929d6ebdd2a78f20342693d9e2ffd02407357f7",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T10-29-25Z-d929d6e",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...d929d6ebdd2a78f20342693d9e2ffd02407357f7",
+              "datetime": "2026-09-17T10:29:04Z",
+              "graded_at": "2026-09-17T10:30:02Z",
+              "score": 0,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
+              "submission": "submit/2026-09-17T10-20-51Z-c89c3a6",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/c89c3a69e3abced5149fafbf9c12c0740e374dbc",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T10-20-51Z-c89c3a6",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...c89c3a69e3abced5149fafbf9c12c0740e374dbc",
+              "datetime": "2026-09-17T10:20:30Z",
+              "graded_at": "2026-09-17T10:21:26Z",
+              "score": 0,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            }
+          ]
+        }
+      ],
+      "collected_at": "2026-09-23T08:46:30Z",
+      "detected": []
     }
   }
 }
