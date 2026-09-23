@@ -18,6 +18,44 @@
               "classroom": "dalp2627-test",
               "assignment_type": "individual",
               "owner": "inigopagaza",
+              "submission": "submit/2026-09-23T08-41-58Z-d8382ec",
+              "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/d8382ec3680cadeb4f055de5f79240045e0f4e07",
+              "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-23T08-41-58Z-d8382ec",
+              "review": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/compare/86e1b65368673636472b28c0bde416637ccc27a3...d8382ec3680cadeb4f055de5f79240045e0f4e07",
+              "datetime": "2026-09-23T08:41:30Z",
+              "graded_at": "2026-09-23T08:47:58Z",
+              "score": 3,
+              "max-score": 3,
+              "tests": [
+                {
+                  "test-name": "Test 1",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 2",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                },
+                {
+                  "test-name": "Test 3",
+                  "passed": true,
+                  "score": 1,
+                  "max-score": 1
+                }
+              ],
+              "submitted_by": {
+                "username": "inigopa-cj",
+                "id": 236615661
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "dalp2627-test",
+              "assignment_type": "individual",
+              "owner": "inigopagaza",
               "submission": "submit/2026-09-17T11-32-46Z-df885d9",
               "commit": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/commit/df885d9d7a046b44f8723ef70c84b56e6f2e5614",
               "release": "https://github.com/DALP-CiudadJardin/dalp2627-test-prueba-2-inigopagaza/releases/tag/submit%2F2026-09-17T11-32-46Z-df885d9",
@@ -244,7 +282,7 @@
           ]
         }
       ],
-      "collected_at": "2026-09-23T08:56:04Z",
+      "collected_at": "2026-09-23T10:15:06Z",
       "detected": []
     }
   }
