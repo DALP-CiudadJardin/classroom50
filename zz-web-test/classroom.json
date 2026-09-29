@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "",
+  "short_name": "zz-web-test",
+  "term": "",
+  "org": "DALP-CiudadJardin",
+  "team": {
+    "id": 19783815,
+    "slug": "classroom50-zz-web-test"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19783816,
+      "slug": "classroom50-zz-web-test-teacher"
+    },
+    "hta": {
+      "id": 19783817,
+      "slug": "classroom50-zz-web-test-hta"
+    },
+    "ta": {
+      "id": 19783818,
+      "slug": "classroom50-zz-web-test-ta"
+    }
+  }
+}
