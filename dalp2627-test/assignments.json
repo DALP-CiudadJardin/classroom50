@@ -81,6 +81,13 @@
           "setup": "pip install ruff",
           "run": "ruff check .",
           "points": 1
+        },
+        {
+          "name": "ruff2",
+          "type": "run",
+          "setup": "pip install ruff",
+          "run": "ruff check .",
+          "points": 1
         }
       ],
       "feedback_pr": true,
