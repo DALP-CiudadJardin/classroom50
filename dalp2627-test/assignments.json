@@ -83,7 +83,28 @@
           "points": 1
         }
       ],
-      "feedback_pr": true
+      "feedback_pr": true,
+      "zuzentzaile": {
+        "enabled": true,
+        "quality": {
+          "pytest": true,
+          "ruff": true,
+          "mypy": false,
+          "bandit": false
+        },
+        "agent": {
+          "trigger": "every-push",
+          "review": [
+            "modularidad",
+            "nombres_significativos",
+            "casos_limite"
+          ],
+          "feedback": {
+            "hint_level": "progresivo",
+            "max_comments": 1
+          }
+        }
+      }
     }
   ]
 }
