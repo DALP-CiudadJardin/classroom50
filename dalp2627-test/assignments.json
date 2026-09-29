@@ -4,64 +4,77 @@
     {
       "slug": "primer-ejemplo",
       "name": "Primer Ejemplo",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "copy_about": true,
-      "copy_topics": true,
+      "description": "Primer ejemplo de ejercicio",
       "template": {
         "owner": "DALP-CiudadJardin",
         "repo": "ejercicio_ejemplo",
         "branch": "main"
       },
-      "description": "Primer ejemplo de ejercicio",
+      "mode": "individual",
+      "autograder": "default",
       "tests": [
         {
           "name": "Prueba 1",
           "type": "python",
+          "setup": "sudo -H pip3 install -r requirements.txt",
           "run": "python -m pytest -q",
-          "points": 1,
-          "setup": "sudo -H pip3 install -r requirements.txt"
+          "points": 1
         }
-      ]
+      ],
+      "feedback_pr": true,
+      "copy_about": true,
+      "copy_topics": true
     },
     {
       "slug": "prueba-2",
       "name": "Prueba 2",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "copy_about": true,
-      "copy_topics": true,
       "template": {
         "owner": "DALP-CiudadJardin",
         "repo": "ejercicio_ejemplo_2",
         "branch": "main"
       },
+      "mode": "individual",
+      "autograder": "default",
       "tests": [
         {
           "name": "Test 1",
           "type": "python",
-          "run": "python -m pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py",
-          "points": 1,
           "setup": "pip install -r requirements.txt",
-          "timeout": 30
+          "run": "python -m pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py",
+          "timeout": 30,
+          "points": 1
         },
         {
           "name": "Test 2",
           "type": "python",
+          "setup": "pip install -r requirements.txt",
           "run": "python -m pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py",
-          "points": 1,
-          "setup": "pip install -r requirements.txt"
+          "points": 1
         },
         {
           "name": "Test 3",
           "type": "python",
+          "setup": "pip install -r requirements.txt",
           "run": "python -m pytest $CLASSROOM50_BUNDLE_DIR/test_tarea.py",
-          "points": 1,
-          "setup": "pip install -r requirements.txt"
+          "points": 1
         }
-      ]
+      ],
+      "feedback_pr": true,
+      "copy_about": true,
+      "copy_topics": true
+    },
+    {
+      "slug": "zz-poc",
+      "name": "PoC Zuzentzaile",
+      "description": "Assignment desechable para la PoC",
+      "template": {
+        "owner": "DALP-CiudadJardin",
+        "repo": "ejercicio_ejemplo_2",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true
     }
   ]
 }
