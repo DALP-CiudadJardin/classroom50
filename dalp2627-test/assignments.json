@@ -62,49 +62,6 @@
       "feedback_pr": true,
       "copy_about": true,
       "copy_topics": true
-    },
-    {
-      "slug": "zz-poc",
-      "name": "PoC Zuzentzaile",
-      "description": "Assignment desechable para la PoC",
-      "template": {
-        "owner": "DALP-CiudadJardin",
-        "repo": "ejercicio_ejemplo_2",
-        "branch": "main"
-      },
-      "mode": "individual",
-      "autograder": "default",
-      "tests": [
-        {
-          "name": "ruff",
-          "type": "run",
-          "setup": "pip install ruff",
-          "run": "ruff check .",
-          "points": 1
-        }
-      ],
-      "feedback_pr": true,
-      "zuzentzaile": {
-        "enabled": true,
-        "quality": {
-          "pytest": true,
-          "ruff": true,
-          "mypy": false,
-          "bandit": false
-        },
-        "agent": {
-          "trigger": "every-push",
-          "review": [
-            "modularidad",
-            "nombres_significativos",
-            "casos_limite"
-          ],
-          "feedback": {
-            "hint_level": "progresivo",
-            "max_comments": 1
-          }
-        }
-      }
     }
   ]
 }
