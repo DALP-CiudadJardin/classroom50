@@ -15,7 +15,8 @@
           "points": 1
         }
       ],
-      "feedback_pr": true
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
