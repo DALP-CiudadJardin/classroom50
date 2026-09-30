@@ -1,4 +1,12 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "demo",
+      "name": "Demo",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true
+    }
+  ]
 }
