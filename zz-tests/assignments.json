@@ -6,6 +6,15 @@
       "name": "Demo",
       "mode": "individual",
       "autograder": "default",
+      "tests": [
+        {
+          "name": "Ruff",
+          "type": "run",
+          "setup": "pip install ruff",
+          "run": "ruff check .",
+          "points": 1
+        }
+      ],
       "feedback_pr": true
     }
   ]
